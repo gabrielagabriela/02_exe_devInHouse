@@ -153,5 +153,15 @@ form {
 
 button {
     margin-top: 15px;
-    
+}
+
+footer {
+    padding-top: 20px;
+    padding-left: 20px;
+    background-color: rgb(43, 43, 43);
+    color: rgb(171, 169, 165);
+}
+
+.copyright {
+    text-align: center;
 }
