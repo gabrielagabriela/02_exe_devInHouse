@@ -30,3 +30,45 @@ a {
     text-decoration: none;
     color: wheat;
 }
+
+img {
+    width: 100%;
+    height: 100%;
+    
+}
+
+.evento-info {
+    
+    display: flex;
+    height: 600px;
+    
+    
+}
+
+
+.evento-destaque h1 {
+    padding-left: 30px;
+}
+
+.evento-info h2 {
+    font-size: 22px;
+    
+}
+
+.evento-info p {
+    font-size: 17px;
+}
+
+.evento-img {
+    flex: 2;
+}
+
+.evento-card {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgb(208, 207, 206);
+}
+
