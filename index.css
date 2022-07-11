@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 50px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: rgb(59, 56, 56);
+}
+.menu p {
+    font-size: 18px;
+}
+
+nav ul {
+    display: flex;
+    gap: 10px;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: wheat;
+}
